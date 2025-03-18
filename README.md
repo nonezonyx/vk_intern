@@ -3,7 +3,7 @@
 Скомпилируйте main.cpp любимым компилятором, например
 
 ```sh
-g++ -o graph_distance graph_distance.cpp
+g++ -o graph_distance main.cpp
 ```
 
 Для запуска передайте первым аргументом путь к файлу
